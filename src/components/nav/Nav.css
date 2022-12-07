@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    background-color: beige;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+ul li{
+    padding: 20px 25px;
+}
